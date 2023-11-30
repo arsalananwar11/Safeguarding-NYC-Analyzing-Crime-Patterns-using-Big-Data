@@ -4,11 +4,14 @@ import os
 
 class SnowflakeHelper():
   def load_config(self, filepath):
-    config = open(filepath)
-    config = json.load(config)
-    print('[SUCCESS] Config file loaded successfully!')
-    return config
-
+    try:
+      config = open(filepath)
+      config = json.load(config)
+      print('[SUCCESS] Config file loaded successfully!')
+      return config
+    except Exception:
+      print('[ERROR] Some error occured while loading the config file. Please check the location/file path of the config file')
+      return None
 
   def create_snowpark_session(self, config_filepath = './snowflake_config.json'):
     connection_parameters = self.load_config(config_filepath)
