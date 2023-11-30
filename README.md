@@ -6,3 +6,16 @@ To provide an in-depth and integrated analysis of crime data from multiple sourc
 ### Project Design
 
 ![](./images/dataset-analysis-design.png)
+
+### Project Architecture
+
+![](./images/nyc-bd-architecture.png)
+
+
+## Setup/References
+
+1. Airbyte: https://docs.airbyte.com/deploying-airbyte/local-deployment
+2. Snowflake: https://docs.snowflake.com/en/user-guide-getting-started 
+3. Airbyte-Snowflake: https://docs.airbyte.com/integrations/destinations/snowflake 
+
+
