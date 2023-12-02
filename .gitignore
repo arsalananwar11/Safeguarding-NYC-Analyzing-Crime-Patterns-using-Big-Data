@@ -1,0 +1,5 @@
+.DS_Store
+.git
+*.csv
+__pycache__
+snowflake_config.json
