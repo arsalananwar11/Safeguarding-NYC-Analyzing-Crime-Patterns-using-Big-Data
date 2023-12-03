@@ -1,8 +1,0 @@
-{
-    "account": "wyfmssh-kt01771",
-    "user": "DATA_DETECTIVES_ADMIN",
-    "password": "DataDetectives@2023",
-    "role" :"AIRBYTE_ROLE",
-    "warehouse": "SAFEGUARDING_NYC_WH",  
-    "database": "SAFEGUARDING_NYC_DB"
-}  
