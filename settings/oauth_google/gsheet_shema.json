@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "safeguarding-nyc",
+    "private_key_id": "6af12f5febfbc23550ff0c2d6c3a415b88155dfc",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCKPXn8qUxwhCa4\nxIec2a/7CYiq5eVAyi/12ZapCvfj+dTttucgeDG8jRJOKnXdl6IHRn4uU8JdSZE6\n+8F3jpy5X9ympV0R4ViE7L8sPzmQpgG+yufVVApYnghuvi+CkU2s68Nbub9t4cvW\n0s9nLJlSfIOlTNYxXrRNN2MjHIiWw4TDdGQ6x2m+CvVMPYKiu87aiC8DJYmEGzLw\nJG+8nveViOpIghox4VXK3MNRQ9937x8JtAW+DlwAFBE6ihykfmkVaVCq7YOnrRd+\nkmTI+ytpYm+2TYGDTLKtu7ghJpVHox5FL564oTFb/OPyR8g1rqo4joN9OWtaALGT\nLENAPTjjAgMBAAECggEAIgE3VaBrji3jvIWTelDOCilxNeCxQPu7SnWIqvJowep9\npy/bsNAAJAprm1C0h5q6H6IGfezancnv8JtnHrq08KCVDWUV/MT62k/GQuMWjO9Y\n9I7C8mXm2Z+eIWelFjAZ9FRWTOTnIudtFd3raMy+tlysoWfCNIjAP1JFj6iALN10\n5cxfGuey76OdmxOxFGcP3EiaP4RYMTOs9/8QfcmMbFwwxfx3WvI1dEDs/77fpCXa\nVjo74vZTv2b/ucZ1odvhiwO0dwramNv2whmIWdRmjtvL1W9BTLUbT9ywkHMm9u2d\nPMDUuzIMEzmVZJkfh1unu3pzz3BW+UiVsiEzm+O/GQKBgQC/RYglctqClEjRqtBx\n2yZJQ7q4Wc7NhyihCgWRzp1ET9aL5fkE9ekm5xo2HPM5iCLv/vbbmFu28Ihf6L4I\nk87MjIis9WDFM/9Y93Ye5oipGRgL2EnMUMBu7d0rji1g7lhGSwHXw2PbWItLZkiL\n0Uev+VV1/pR2SGF/uANMytvO5QKBgQC5Baj2rolat0FlmcBWWRbkKhDFH0kM61a8\n1+hT2zRGQhUPaUvoemZ6iMMWZWbfuS3CEp9G3vMO66UtiSbPSMQCwVu/sY8RceAW\n8jMuN74DCDTALGmEoyVYvkPzkajw26Adu1tYRktOVtGUgq7lvmgag0f9uklzYjQZ\n2acuLf6kJwKBgHqOyhr8ygiLjVFTezbJLnIZhOYlHX7SUPVHH6R62IhyA84mcHZ+\nP4Pe5wuvZyYBFinjnDe/G11QKIIT9tg2JXcpwVXZ8MTLeZ1/Ct/n5b88Rg0o7LiP\nMY6iuWn0Mx19+3AnFao0F6LvzGlmw6tbUOzv/ZOaqXRVEqwss2icP1YFAoGBALX/\nnU7aLP5xGQEqFopZpCzYPBrLRX5R2MZ103D5RRh/VFwOhb6u+DM8aDqVkHYtn5cx\n3j9Ge+yHW7nJGcX4m+bh8LBFpqfQTlAD+thRuLUe01Td2wW/vbLnpcvn0jjqsTvN\n2nKg4t6yhAID8qrHe3vo+13Yavv2860h7lN8puktAoGAFTjbQa6AK6htjVgg4g5Y\nj3j1XHFC3giJlRiv3dgk4TgXed0PFCmQc5owMwnUyV8dPIHlb/WSVD0O8oUJUgL4\n0p6aUtZZC24YToTGnvhVfbt/FCpCWVNdycp5aW9N2q8VxqDAzpGFvSJPWakVLgqj\nzAjaM50p4YC6FHnyolVxd/4=\n-----END PRIVATE KEY-----\n",
+    "client_email": "sheet-service-account@safeguarding-nyc.iam.gserviceaccount.com",
+    "client_id": "110854836066131070419",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheet-service-account%40safeguarding-nyc.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
