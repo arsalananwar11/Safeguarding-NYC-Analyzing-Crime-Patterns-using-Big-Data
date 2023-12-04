@@ -3,3 +3,4 @@
 *.csv
 __pycache__
 snowflake_config.json
+gsheet_schema.json
