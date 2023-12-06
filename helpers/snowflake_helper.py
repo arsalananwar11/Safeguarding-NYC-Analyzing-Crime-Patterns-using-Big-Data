@@ -38,11 +38,13 @@ class SnowflakeHelper():
     try:
       schema_table_ptr = f'{ schema_name }.{ table_name }'
       session.use_schema(schema_name)
+      print(f'[INFO] Schema changed to { schema_name }')
       data.write.saveAsTable(table_name , mode = mode)
       session.use_schema(self.current_schema)
+      print(f'[INFO] Schema changed to { self.current_schema }')
       print(f'[SUCCESS] Data saved successfully in { schema_table_ptr } table in Snowflake!')
-    except:
-      print(f'[ERROR] Some error occured while saving the data in { schema_table_ptr } table snowflake. Please check the schema and the data')
+    except Exception as e:
+      print(f'[ERROR] Some error occured while saving the data in { schema_table_ptr } table snowflake. Please check the schema and the data\n { e }')
       return None
 
 if __name__ == '__main__':
