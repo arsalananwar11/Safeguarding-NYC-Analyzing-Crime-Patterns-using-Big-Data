@@ -11,6 +11,9 @@ To provide an in-depth and integrated analysis of crime data from multiple sourc
 
 ![](./images/nyc-bd-architecture.png)
 
+### ER Diagram
+
+![](./images/er-diagram.png)
 
 ## Setup/References
 
