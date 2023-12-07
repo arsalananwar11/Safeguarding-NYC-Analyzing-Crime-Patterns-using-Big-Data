@@ -5,12 +5,15 @@ To provide an in-depth and integrated analysis of crime data from multiple sourc
 
 ### Data Design
 
-![](./images/dataset-analysis-design.png)
+![](./images/dataset-analysis-design-updated.png)
 
 ### Project Architecture
 
 ![](./images/nyc-bd-architecture.jpeg)
 
+### ER Diagram
+
+![](./images/er-diagram.png)
 
 ## Setup/References
 
