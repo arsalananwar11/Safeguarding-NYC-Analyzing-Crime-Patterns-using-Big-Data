@@ -5,7 +5,7 @@ To provide an in-depth and integrated analysis of crime data from multiple sourc
 
 ### Data Design
 
-![](./images/dataset-analysis-design.png)
+![](./images/dataset-analysis-design-updated.png)
 
 ### Project Architecture
 
