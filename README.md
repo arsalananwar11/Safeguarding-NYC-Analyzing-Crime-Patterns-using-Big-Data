@@ -9,7 +9,7 @@ To provide an in-depth and integrated analysis of crime data from multiple sourc
 
 ### Project Architecture
 
-![](./images/nyc-bd-architecture.png)
+![](./images/nyc-bd-architecture.jpeg)
 
 ### ER Diagram
 
