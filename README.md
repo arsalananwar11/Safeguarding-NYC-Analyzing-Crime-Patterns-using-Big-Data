@@ -1,19 +1,20 @@
-# Safeguarding NYC: Analyzing Crime Patterns using Big Data
+## Safeguarding NYC: Analyzing Crime Patterns using Big Data
 
 ### Objective: 
 To provide an in-depth and integrated analysis of crime data from multiple sources in New York City. This study aims to identify patterns, intensities, and distributions of crimes, with the ultimate goal of aiding various stakeholders in understanding and mitigating criminal activities in NYC.
 
-### Data Design
+### Data
 
+- Data Design
 ![](./images/dataset-analysis-design-updated.png)
+
+- ER Diagram
+![](./images/er-diagram.png)
 
 ### Project Architecture
 
 ![](./images/nyc-bd-architecture.jpeg)
 
-### ER Diagram
-
-![](./images/er-diagram.png)
 
 ## Setup/References
 
