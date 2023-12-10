@@ -6,11 +6,11 @@ To provide an in-depth and integrated analysis of crime data from multiple sourc
 ### Data
 
 - Data Design
-![](./images/dataset-analysis-design-updated.png =80x60)
+![](./images/dataset-analysis-design-updated.png)
 
 - ER Diagram
 
-![](./images/er-diagram.png =100x60)
+![](./images/er-diagram.png)
 
 ### Project Architecture
 
