@@ -1,0 +1,8 @@
+{
+    "account": "<account>",
+    "user": "<user_name>",
+    "password": "<password>",
+    "role" :"<user_access_role>",
+    "warehouse": "SAFEGUARDING_NYC_WH",  
+    "database": "SAFEGUARDING_NYC_DB"
+}  
