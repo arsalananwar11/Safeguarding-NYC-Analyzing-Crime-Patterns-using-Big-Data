@@ -5,10 +5,12 @@ To provide an in-depth and integrated analysis of crime data from multiple sourc
 
 
 ### Setup
-1. Create an account on Snowflake and get your account, user, role, warehouse and database information
+1. Create an account on Snowflake(https://www.snowflake.com/en/) 
 
-2. In the helpers/snowflake_config.json file, update your Snowflake Credentials
-'''JSON
+2. Create a warehouse of your choice and get your account, user, role, warehouse and database information
+
+3. In the helpers/snowflake_config.json file, update your Snowflake Credentials.
+```json
 {
     "account": "<account>",
     "user": "<user_name>",
@@ -17,7 +19,7 @@ To provide an in-depth and integrated analysis of crime data from multiple sourc
     "warehouse": "<warehouse_name>",  
     "database": "<default_schema_name>"
 }  
-'''
+```
 
 ### Project Architecture
 ![](./images/nyc-bd-architecture.jpeg)
