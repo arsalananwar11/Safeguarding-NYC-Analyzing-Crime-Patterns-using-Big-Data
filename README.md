@@ -4,7 +4,7 @@
 To provide an in-depth and integrated analysis of crime data from multiple sources in New York City. This study aims to identify patterns, intensities, and distributions of crimes, with the ultimate goal of aiding various stakeholders in understanding and mitigating criminal activities in NYC.
 
 ### Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h9XeFN8BQqk?si=IZfIL2-SmewLkFOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Youtube: https://www.youtube.com/embed/h9XeFN8BQqk?si=IZfIL2-SmewLkFOT
 
 
 ### Setup
