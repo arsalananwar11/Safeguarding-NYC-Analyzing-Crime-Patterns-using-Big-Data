@@ -3,6 +3,9 @@
 ### Objective
 To provide an in-depth and integrated analysis of crime data from multiple sources in New York City. This study aims to identify patterns, intensities, and distributions of crimes, with the ultimate goal of aiding various stakeholders in understanding and mitigating criminal activities in NYC.
 
+### Demo
+Youtube: https://www.youtube.com/embed/h9XeFN8BQqk?si=IZfIL2-SmewLkFOT
+
 
 ### Setup
 1. Create an account on Airbyte [1] or setup and launch Airbyte locally [2] to avoid billing!
@@ -75,5 +78,3 @@ To provide an in-depth and integrated analysis of crime data from multiple sourc
 4. Snowflake: https://docs.snowflake.com/en/user-guide-getting-started 
 5. Airbyte-Snowflake Destination Setup: https://docs.airbyte.com/integrations/destinations/snowflake 
 6. Sync Data to Snowflake using Airbyte: https://airbyte.com/how-to-sync/zencart-to-snowflake-data-cloud
-
-
