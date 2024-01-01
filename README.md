@@ -3,6 +3,9 @@
 ### Objective
 To provide an in-depth and integrated analysis of crime data from multiple sources in New York City. This study aims to identify patterns, intensities, and distributions of crimes, with the ultimate goal of aiding various stakeholders in understanding and mitigating criminal activities in NYC.
 
+### Project Presentation
+PPT: https://docs.google.com/presentation/d/144ihBUms3pbtCaA9FmnW3HiIcFcpWQfDX_3baV7cvR4/edit?usp=sharing 
+
 ### Demo
 Youtube: https://www.youtube.com/embed/h9XeFN8BQqk?si=IZfIL2-SmewLkFOT
 
